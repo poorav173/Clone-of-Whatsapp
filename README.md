@@ -2,7 +2,11 @@
 
 ### whatsapp-Clone
 
- - Developed user profile, connections, job listing and application modules using <b>MERN Stack</b> 
+#### functionalities:(completed) 
+-login
+-signup
+-one to one chat
+-group chat
 
 ## Screenshots
  
