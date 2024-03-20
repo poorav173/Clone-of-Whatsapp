@@ -1,6 +1,6 @@
-## Professional Networking 
 
-### LinkedIn-Clone
+
+### whatsapp-Clone
 
  - Developed user profile, connections, job listing and application modules using <b>MERN Stack</b> 
 
