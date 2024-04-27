@@ -16,6 +16,9 @@ function App() {
       <Routes>
         <Route path = '/chats' element={<ChatPage/>}/>
       </Routes>
+      <Routes>
+        <Route path = '/calls' element={<ChatPage/>}/>
+      </Routes>
     </div>
     </AppState>
       </Router>
