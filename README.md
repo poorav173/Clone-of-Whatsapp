@@ -4,9 +4,11 @@
 
 #### functionalities:(completed) 
 -login
--signup
+-signup with valid password ,profile photo
 -one to one chat
 -group chat
+-share pdf ,photos , emoji
+-video call
 
 ## Screenshots
  
